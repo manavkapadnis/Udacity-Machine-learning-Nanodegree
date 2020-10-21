@@ -1,6 +1,6 @@
 # Udacity-Machine-learning-Nanodegree
 <br>
-## Capstone Project Readme 
+<H2> Capstone Project Readme </H1>
 <br>
-- Prerequisite Libraries:
+<H4> Prerequisite Libraries: </H4>
       
